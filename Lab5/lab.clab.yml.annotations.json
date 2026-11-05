@@ -1,0 +1,40 @@
+{
+  "freeTextAnnotations": [],
+  "freeShapeAnnotations": [],
+  "trafficRateAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "sw0",
+      "position": {
+        "x": 380,
+        "y": 340
+      }
+    },
+    {
+      "id": "attacker",
+      "position": {
+        "x": 420,
+        "y": 500
+      }
+    },
+    {
+      "id": "phpserver",
+      "position": {
+        "x": 460,
+        "y": 200
+      }
+    },
+    {
+      "id": "waf",
+      "position": {
+        "x": 540,
+        "y": 360
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {}
+}

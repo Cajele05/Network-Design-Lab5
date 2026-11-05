@@ -1,0 +1,21 @@
+---
+attacker:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.8
+phpserver:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.9
+sw0:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.10
+waf:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.11
